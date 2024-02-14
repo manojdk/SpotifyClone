@@ -1,0 +1,4 @@
+nxt nd previous button cover not changing
+cover photo in bottom bar
+play and pause from the songlist 
+cover not updating for "don't let it break your heart"
